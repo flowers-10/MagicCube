@@ -1,7 +1,7 @@
 {
   "name": "meo_art_of_china_2024_r3f",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
